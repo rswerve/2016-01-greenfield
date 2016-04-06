@@ -1,6 +1,5 @@
-# Project Name
+# PlayList
 
-Playlist
 
 > a synchronized YouTube video and chat application
 
