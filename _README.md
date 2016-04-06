@@ -6,9 +6,8 @@ Playlist
 
 ## Team
 
-  - __Product Owner__: Sonny Sheth
-  - __Scrum Master__: Calvin Le
-  - __Development Team Members__: Ted Hsiao, Tom Coughlin
+
+  - __Development Team Members__: Pedro Torres-Pincon, Mazdak Atighi, Kelly von Borstel, Devonte MacGlashan, Pierre Teo
 
 ## Table of Contents
 
@@ -29,7 +28,7 @@ Usage Instructions:
 
     A user can click on the magnifying glass in the YouTube search field without any query and it will display 25 YouTube-generated default search results;
 
-    For a video that is currently being shown, users can up and down vote the video; if a majority of users online down votes the video, it will be skipped to the next video in the playlist;
+    Users can up/downvote the playing video or queue items.  Items with more downvotes than upvotes will be removed.
 
     Only the user that adds a video to the playlist can skip the video without requiring a majority of down votes;
 
@@ -37,9 +36,7 @@ Usage Instructions:
 
     Only the user that adds a video to the playlist can click remove to delete the video from the playlist;
 
-    Users can control the YouTube video volume using the slider in the header; the volume is set to 50% by default;
-
-    Users can see who else is online by clicking on the users tab within the chat window;
+    Chat is full-featured with emojis, private messaging, and hidden methods for you to find.
 
 
 
